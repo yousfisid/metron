@@ -1,5 +1,9 @@
 # Apache Metron 
 
+## IMPORTANT POUR LA CORRECTION DU PROJET 
+
+Consulter les fichiers : ARTICLE.md
+
 ## Mise en place du LAB
 
 Avant de déployer la solution Apache Metron, vous devez vous assurer d’avoir les bons outils avec les bonnes versions :
@@ -103,4 +107,14 @@ Une fois lancé, Vagrant va fonctionner en tant que “node1”
 ### Kibana : sur http://node1:5000/
 
 ### Monit : sur  http://node1:2812/ 
+
+
+
+# Problèmes rencontrés lors du déploiement de la solution Apache Metron
+
+Lors du déploiement de la solution Apache Metron nous avions rencontré beaucoup de problèmes…
+
+* Des fichiers .yml contenant des erreurs de syntax
+* Des fichiers .yml écrit dans une version antérieur (installed remplacé par present) 
+* Parfois des erreurs mais l'erreur n'est pas renvoyée (stderr : "" --> vide)
 
