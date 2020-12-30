@@ -67,6 +67,7 @@ $ sudo apt install ansible
 > 
 > Ouvrir le fichier /etc/environments : sudo nano /etc/environments
 >> Ajouter les lignes suivantes : (les chemins peuvent être trouver en checkant la version de java ou maven)
+>
 >> JAVA_HOME = “java path”
 >> MAVEN_HOME="maven path"
 
