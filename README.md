@@ -125,9 +125,13 @@ Nous avions eu plusieurs erreurs durant notre deploiement, mais nous n'avions pa
 #### Problème 1 : erreur de syntax
 (BUG5)
 #### Problème 2 : "State: installed" remplacé par "state: present"
+
 (BUG4)
+
 Les fichiers ont été modifié sur le git comme on peut le voir ici en lançant un git status : 
+
 (BUG6)
+
 #### Problème 3 : 
 (BUG1)
 
