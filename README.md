@@ -78,3 +78,23 @@ $ cd metron/metron-deployment/scripts
 $ ./platform-info.sh
 ```
 ## Deploiement d’Apache Metron
+Une fois le LAB mis en place, il faut cloner le Github d’Apache Metron :
+ 
+```
+$ git clone https://github.com/yousfisid/metron.git
+$ cd metron/metron-deployment/development/ubuntu14
+$ vagrant up --provision
+```
+
+> Note: Essayez de relancer plusieurs fois si cela ne fonctionne pas 
+
+Une fois lancé, Vagrant va fonctionner en tant que “node1”
+
+
+## Ambari : sur http://node1:8080/
+
+## Kibana : sur http://node1:5000/
+
+
+## Monit : sur http://node1:2812/ 
+
