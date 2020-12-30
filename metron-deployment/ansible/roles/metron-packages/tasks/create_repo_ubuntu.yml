@@ -18,7 +18,7 @@
 - name: Install tooling on Ubuntu
   package:
     name: dpkg-dev
-    state: installed
+    state: present
 
 - name: Create repository index directory on Ubuntu
   file:
