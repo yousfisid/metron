@@ -66,9 +66,10 @@ $ sudo apt install ansible
 >  ### Définir les chemins de Java et de Maven 
 > 
 > Ouvrir le fichier /etc/environments : sudo nano /etc/environments
->> Ajouter les lignes suivantes : (les chemins peuvent être trouver en checkant la version de java ou maven)
+> Ajouter les lignes suivantes : (les chemins peuvent être trouver en checkant la version de java ou maven)
 >
 >> JAVA_HOME = “java path”
+>
 >> MAVEN_HOME="maven path"
 
 Vous pouvez vérifier que votre LAB est prêt en lançant la commande suivante :  
