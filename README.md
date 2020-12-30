@@ -28,13 +28,14 @@ $ sudo apt-get update
 $ sudo apt-get install python-pip python-dev build-essential
 $ sudo pip install 
 ```
-(Screen de version)
+![pip](https://user-images.githubusercontent.com/44205421/103375062-736fd680-4ad9-11eb-94e4-9cffe4e2e56e.png)
 
 ### Installation de VirtualBox
 
 ```
 $ sudo apt-get install virtualbox
 ```
+![Virtualbox](https://user-images.githubusercontent.com/44205421/103375173-c5186100-4ad9-11eb-9364-85dafa1c60b9.png)
 
 ### Installation de JAVA
 
@@ -42,6 +43,7 @@ $ sudo apt-get install virtualbox
 $ sudo add-apt-repository ppa:webupd8team/java
 $ sudo apt install oracle-java8-installer
 ```
+![java](https://user-images.githubusercontent.com/44205421/103375165-c053ad00-4ad9-11eb-8a64-ae32ff3fb31a.png)
 
 ### Installation de Vagrant 
 
@@ -49,12 +51,14 @@ $ sudo apt install oracle-java8-installer
 $ sudo apt update
 $ sudo apt install vagrant
 ```
+![vagrant](https://user-images.githubusercontent.com/44205421/103375119-9c906700-4ad9-11eb-91a4-81f0c4204e2c.png)
 
 ### Installation de Maven
 
 ```
 $ sudo apt-get install maven
 ```
+![maven](https://user-images.githubusercontent.com/44205421/103375158-bcc02600-4ad9-11eb-80b5-5531e41d95a1.png)
 
 ### Installation de Ansible 
 
@@ -62,6 +66,7 @@ $ sudo apt-get install maven
 $ sudo apt update
 $ sudo apt install ansible
 ```
+![ansible](https://user-images.githubusercontent.com/44205421/103375170-c2b60700-4ad9-11eb-8166-8aa13f34e0b8.png)
 
 >  ### Définir les chemins de Java et de Maven 
 > 
