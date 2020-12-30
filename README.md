@@ -123,19 +123,20 @@ Lors du déploiement de la solution Apache Metron nous avions rencontré beaucou
 Nous avions eu plusieurs erreurs durant notre deploiement, mais nous n'avions pas le reflexe de prendre des screenshots… Voici les dernières que nous avions eu :
 
 #### Problème 1 : erreur de syntax
-(BUG5)
+![Bug5](https://user-images.githubusercontent.com/44205421/103387172-9bbffb00-4b02-11eb-9c18-7a49135397ee.png)
+
 #### Problème 2 : "State: installed" remplacé par "state: present"
 
-(BUG4)
+![unknown](https://user-images.githubusercontent.com/44205421/103387244-f78a8400-4b02-11eb-80d0-f15b3b8a3b87.png)
 
 Les fichiers ont été modifié sur le git comme on peut le voir ici en lançant un git status : 
 
-(BUG6)
+![capture5](https://user-images.githubusercontent.com/44205421/103387184-a7132680-4b02-11eb-8910-0d60a9638d7a.png)
 
 #### Problème 3 : 
-(BUG1)
+![Bug1](https://user-images.githubusercontent.com/44205421/103387178-a11d4580-4b02-11eb-9099-7a084a13d693.png)
 
 #### Avancement : 
 
-(SUCCESS)
+![SUCCESS](https://user-images.githubusercontent.com/44205421/103387161-8ba81b80-4b02-11eb-97b6-823dd4ce61ef.png)
 
