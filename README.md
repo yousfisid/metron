@@ -94,7 +94,8 @@ Une fois le LAB mis en place, il faut cloner le Github d’Apache Metron :
 ```
 $ git clone https://github.com/yousfisid/metron.git
 $ cd metron/metron-deployment/development/ubuntu14
-$ vagrant up --provision
+$ vagrant up 
+$ vagrant provision
 ```
 
 > Note: Essayez de relancer plusieurs fois si cela ne fonctionne pas 
