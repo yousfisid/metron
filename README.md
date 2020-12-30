@@ -91,10 +91,9 @@ $ vagrant up --provision
 Une fois lancé, Vagrant va fonctionner en tant que “node1”
 
 
-## Ambari : sur http://node1:8080/
+### Ambari : sur http://node1:8080/
 
-## Kibana : sur http://node1:5000/
+### Kibana : sur http://node1:5000/
 
-
-## Monit : sur http://node1:2812/ 
+### Monit : sur  http://node1:2812/ 
 
