@@ -82,6 +82,8 @@ Vous pouvez vérifier que votre LAB est prêt en lançant la commande suivante :
 $ cd metron/metron-deployment/scripts
 $ ./platform-info.sh
 ```
+![capture4](https://user-images.githubusercontent.com/44205421/103375677-17a64d00-4adb-11eb-845b-e9290ace6db5.png)
+
 ## Deploiement d’Apache Metron
 Une fois le LAB mis en place, il faut cloner le Github d’Apache Metron :
  
