@@ -119,3 +119,12 @@ Lors du déploiement de la solution Apache Metron nous avions rencontré beaucou
 * Des fichiers .yml écrit dans une version antérieur (installed remplacé par present) 
 * Parfois des erreurs mais l'erreur n'est pas renvoyée (stderr : "" --> vide)
 
+Nous avions eu plusieurs erreurs durant notre deploiement, mais nous n'avions pas le reflexe de prendre des screenshots… Voici les dernières que nous avions eu :
+
+#### Problème 1 : 
+
+#### Problème 2 :
+
+#### Problème 3 : 
+
+#### Problème 4 : 
