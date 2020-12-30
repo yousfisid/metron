@@ -102,15 +102,15 @@ $ vagrant up --provision
 Une fois lancé, Vagrant va fonctionner en tant que “node1”
 
 
-### Ambari : sur http://node1:8080/
+> ### Ambari : 
+>> sur http://node1:8080/
+> ### Kibana :
+>> sur http://node1:5000/
+> ### Monit : 
+>> sur http://node1:2812/
 
-### Kibana : sur http://node1:5000/
 
-### Monit : sur  http://node1:2812/ 
-
-
-
-# Problèmes rencontrés lors du déploiement de la solution Apache Metron
+## Problèmes rencontrés lors du déploiement de la solution Apache Metron
 
 Lors du déploiement de la solution Apache Metron nous avions rencontré beaucoup de problèmes…
 
