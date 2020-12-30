@@ -28,8 +28,6 @@ La normalisation, l’enrichissement, l’analyse et la corrélation des événe
 La présentation synthétique (tableaux de bords, statistiques, ...) de la sécurité du SI, 
 L'envoi d'alarmes pour notifier des incidents de sécurité.
 
-
-Partie technique : Les technos utilisées Aymen
  
  
 ## Apache Metron
@@ -103,12 +101,12 @@ Elasticsearch est un moteur d’indexation et de recherche temps réel distribu�
 
 # Le plus de ce SIEM
 
-## Gestion de la scalabilité 
+### Gestion de la scalabilité 
 
 La solution s’appuie sur un ensemble de briques technologiques permettant de gérer la scalabilité et la montée en charge de manière horizontale et verticale.
 Les 4 technologies principales utilisées (Elasticsearch, HDFS, Apache NiFi, Apache Kafka) fonctionnent en cluster et sont scalables horizontalement par ajout de nouveaux nœuds de traitement. Une scalabilité verticale (CPU, RAM et disque) est également possible dans une certaine limite sur chaque nœud constituant les différents éléments des clusters.
 
-## Gestion de la haute disponibilité
+### Gestion de la haute disponibilité
 
 Les 4 technologies principales utilisées (Elasticsearch, HDFS, Apache NiFi, Apache Kafka) fonctionnent nativement en mode haute disponibilité.
 
