@@ -28,7 +28,7 @@
 - name: Install ntp
   package:
     name: "{{ ntp_package_name }}"
-    state: installed
+    state: present
 
 - name: Ensure ntp is running and enabled
   service:
