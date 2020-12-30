@@ -4,14 +4,14 @@
 
 Avant de déployer la solution Apache Metron, vous devez vous assurer d’avoir les bons outils avec les bonnes versions :
 
-Python 2.7
-Pip 
-VirtualBox
-JAVA 8
-Vagrant / Vagrant Hostmanager
-docker
-Maven 
-Ansible
+* Python 2.7
+* Pip 
+* VirtualBox
+* JAVA 8
+* Vagrant / Vagrant Hostmanager
+* docker
+* Maven 
+* Ansible
 
 Pour ce faire, voici les étapes à suivre :
 
