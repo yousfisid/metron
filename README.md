@@ -2,7 +2,7 @@
 
 ## IMPORTANT POUR LA CORRECTION DU PROJET 
 
-Consulter les fichiers : ARTICLE.md
+Consulter les fichiers : ARTICLE.md et e-mail
 
 ## Mise en place du LAB
 
@@ -122,12 +122,14 @@ Lors du déploiement de la solution Apache Metron nous avions rencontré beaucou
 
 Nous avions eu plusieurs erreurs durant notre deploiement, mais nous n'avions pas le reflexe de prendre des screenshots… Voici les dernières que nous avions eu :
 
-#### Problème 1 : 
-
-#### Problème 2 :
-
+#### Problème 1 : erreur de syntax
+(BUG5)
+#### Problème 2 : "State: installed" remplacé par "state: present"
+(BUG4)
+Les fichiers ont été modifié sur le git comme on peut le voir ici en lançant un git status : 
+(BUG6)
 #### Problème 3 : 
+(BUG1)
 
-#### Problème 4 : 
 
 
